@@ -6,6 +6,12 @@ https://wotupset.github.io/2021/01/
   + https://wotupset.github.io/2021/01/01/video.htm
   + https://wotupset.github.io/2021/01/01/twitter.htm
   + https://wotupset.github.io/2021/01/01/image.htm
++ 04
+  + https://wotupset.github.io/2021/01/04/video.htm
+  + https://wotupset.github.io/2021/01/04/twitter.htm
+  + https://wotupset.github.io/2021/01/04/image.htm
+
+
 
 # ==
 <img src="" width="360" height="auto">
