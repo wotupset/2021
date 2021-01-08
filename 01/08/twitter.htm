@@ -352,7 +352,7 @@ try{
 	
 	
 	jqxhr.done(function( data, textStatus, jqXHR ){//data,status,jqxhr
-		console.log( data );
+		//console.log( data ); //含script
 		//data, textStatus, jqXHR
 		//console.log( a,b,c );
 		//console.log( pp,qq.length,qq[pp] );
@@ -360,7 +360,8 @@ try{
 		//console.log( 'jqxhr.done' );
 		//console.log( $(data.html) );
 		//$("#box"+url_count ).append( $(data.html)[0] );
-		$("#box"+url_count ).append( $(data.html) );
+		$("#box"+url_count ).append( $(data.html[0]) );//載入部分html
+		$("#box"+url_count ).append( '❖' );
 	});
 	jqxhr.fail(function( jqXHR, textStatus, errorThrown ){ //jqXHR, textStatus, errorThrown
 		//console.log( a,b,c );
