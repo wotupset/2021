@@ -360,7 +360,8 @@ try{
 		//console.log( 'jqxhr.done' );
 		//console.log( $(data.html) );
 		//$("#box"+url_count ).append( $(data.html)[0] );
-		$("#box"+url_count ).append( $(data.html[0]) );//載入部分html
+		var aa=$(data.html);
+		$("#box"+url_count ).append( aa[0] );//載入部分html
 		$("#box"+url_count ).append( '❖' );
 	});
 	jqxhr.fail(function( jqXHR, textStatus, errorThrown ){ //jqXHR, textStatus, errorThrown
