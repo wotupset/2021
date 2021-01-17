@@ -1,5 +1,18 @@
 # 2021
 https://wotupset.github.io/2021/
+
+# 君は女王だ　君ならできる
+
+Hey you …
+
+Yeah you Queen …
+
+You’re gonna make it! :two_hearts::two_hearts:
+
+
+![](https://files.gitter.im/588068efd73408ce4f448ac2/R3OJ/210117-133840_Er28oIGVEAIyHJ9.jpg)
+
+
 # 杯中明月
 横から胸が見えるのエッチ
 
