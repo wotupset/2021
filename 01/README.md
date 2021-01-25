@@ -48,6 +48,9 @@ https://wotupset.github.io/2021/01/
 # 見龍在田，天下文明
 <img src="" width="360" height="auto">
 
+<img src="https://files.catbox.moe/pavcuc.jpg" width="360" height="auto">
+<img src="https://anonfiles.com/t2td43Ccp9/210125-170336_EskNMtLUcAEV-G6_jpg" width="360" height="auto">
+
 <img src="https://cdn.discordapp.com/attachments/453967520299483156/799886947875029042/210116-142426_EryDAsdVkAAxVwW.jpg" width="360" height="auto">
 
 
