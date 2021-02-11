@@ -29,6 +29,9 @@ https://wotupset.github.io/2021/02/
 # ==
 <img src="" width="360" height="auto">
 
++ 10
+<img src="https://user-images.githubusercontent.com/4385327/107602822-c6ef4b80-6c65-11eb-9353-205be974f349.jpg" width="360" height="auto">
+
 + 04
 <img src="https://cdn.discordapp.com/attachments/453967520299483156/806795852534120458/210204-155558_EtVsHOcXUAA1pRk.jpg" width="360" height="auto">
 <img src="https://files.gitter.im/588068efd73408ce4f448ac2/eFdf/Hu210204-47-0003.jpg" width="360" height="auto">
