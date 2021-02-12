@@ -29,6 +29,9 @@ https://wotupset.github.io/2021/02/
 # ==
 <img src="" width="360" height="auto">
 
++ 12
+<img src="https://media.gab.com/system/media_attachments/files/065/313/094/original/f53226650d81c193.jpeg" width="360" height="auto">
+
 + 11
 <img src="https://imgpoi.com/i/KF9949.jpg" width="360" height="auto">
 
