@@ -38,8 +38,9 @@ https://wotupset.github.io/2021/02/
 <img src="" width="360" height="auto">
 
 + 14
-<img src="https://pbs.twimg.com/media/EtCNLtzVEAUay24?format=jpg&name=small" width="360" height="auto">
-<img src="https://pbs.twimg.com/media/ErP3AC3UcAEb7n-?format=jpg&name=small" width="360" height="auto">
+<img src="https://pbs.twimg.com/media/EpjijqeVgAAZk2M?format=jpg&name=large" width="360" height="auto">
+<img src="https://pbs.twimg.com/media/EtCNLtzVEAUay24?format=jpg&name=large" width="360" height="auto">
+<img src="https://pbs.twimg.com/media/ErP3AC3UcAEb7n-?format=jpg&name=large" width="360" height="auto">
 
 + 12
 <img src="https://media.gab.com/system/media_attachments/files/065/313/094/original/f53226650d81c193.jpeg" width="360" height="auto">
