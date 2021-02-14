@@ -38,6 +38,7 @@ https://wotupset.github.io/2021/02/
 <img src="" width="360" height="auto">
 
 + 14
+<img src="https://pbs.twimg.com/media/EtCNLtzVEAUay24?format=jpg&name=small" width="360" height="auto">
 <img src="https://pbs.twimg.com/media/ErP3AC3UcAEb7n-?format=jpg&name=small" width="360" height="auto">
 
 + 12
