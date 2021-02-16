@@ -43,8 +43,8 @@ https://wotupset.github.io/2021/02/
 
 + 16
 <img src="https://user-images.githubusercontent.com/4385327/108073211-b9d9be80-70a2-11eb-83f0-42cb00da6cab.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/108073310-d970e700-70a2-11eb-9f6e-26c24b263b66.jpg" width="360" height="auto">
 <img src="https://user-images.githubusercontent.com/4385327/108073136-a9294880-70a2-11eb-9b04-9f043701f790.jpg" width="360" height="auto">
-<img src="" width="360" height="auto">
 
 + 14
 <img src="https://pbs.twimg.com/media/EpjijqeVgAAZk2M?format=jpg&name=large" width="360" height="auto">
