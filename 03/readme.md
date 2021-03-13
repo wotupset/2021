@@ -14,6 +14,10 @@ https://wotupset.github.io/2021/03/
   + https://wotupset.github.io/2021/03/08/video.htm
   + https://wotupset.github.io/2021/03/08/twitter.htm
   + https://wotupset.github.io/2021/03/08/image.htm
++ 13
+  + https://wotupset.github.io/2021/03/13/video.htm
+  + https://wotupset.github.io/2021/03/13/twitter.htm
+  + https://wotupset.github.io/2021/03/13/image.htm
 
 
 
