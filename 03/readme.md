@@ -22,6 +22,10 @@ https://wotupset.github.io/2021/03/
   + https://wotupset.github.io/2021/03/15/video.htm
   + https://wotupset.github.io/2021/03/15/twitter.htm
   + https://wotupset.github.io/2021/03/15/image.htm
++ 16
+  + https://wotupset.github.io/2021/03/16/video.htm  抖音
+  + https://wotupset.github.io/2021/03/16/twitter.htm
+  + https://wotupset.github.io/2021/03/16/image.htm
 
 
 
