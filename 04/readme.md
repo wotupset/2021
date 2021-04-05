@@ -7,6 +7,10 @@ https://wotupset.github.io/2021/04/
   + https://wotupset.github.io/2021/04/02/video.htm
   + https://wotupset.github.io/2021/04/02/twitter.htm
   + https://wotupset.github.io/2021/04/02/image.htm
++ 05
+  + https://wotupset.github.io/2021/04/05/video.htm
+  + https://wotupset.github.io/2021/04/05/twitter.htm
+  + https://wotupset.github.io/2021/04/05/image.htm
 
 
 # ==
