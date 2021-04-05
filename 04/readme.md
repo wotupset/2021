@@ -19,7 +19,7 @@ https://wotupset.github.io/2021/04/
 
 + 05
 <img src="https://user-images.githubusercontent.com/4385327/113527660-cd100180-95f0-11eb-9fa3-9f14c955500a.jpg" width="360" height="auto">
-<img src="" width="360" height="auto">
+
 
 
 
