@@ -11,11 +11,18 @@ https://wotupset.github.io/2021/04/
   + https://wotupset.github.io/2021/04/05/video.htm
   + https://wotupset.github.io/2021/04/05/twitter.htm
   + https://wotupset.github.io/2021/04/05/image.htm
++ 08
+  + https://wotupset.github.io/2021/04/08/video.htm
+  + https://wotupset.github.io/2021/04/08/twitter.htm
+  + https://wotupset.github.io/2021/04/08/image.htm
 
 
 # ==
 <img src="" width="360" height="auto">
 
++ 08
+<img src="" width="360" height="auto">
+<img src="" width="360" height="auto">
 
 + 05
 <img src="https://user-images.githubusercontent.com/4385327/113527660-cd100180-95f0-11eb-9fa3-9f14c955500a.jpg" width="360" height="auto">
