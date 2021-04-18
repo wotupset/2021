@@ -19,6 +19,10 @@ https://wotupset.github.io/2021/04/
   + https://wotupset.github.io/2021/04/12/video.htm
   + https://wotupset.github.io/2021/04/12/twitter.htm
   + https://wotupset.github.io/2021/04/12/image.htm
++ 18
+  + https://wotupset.github.io/2021/04/18/video.htm
+  + https://wotupset.github.io/2021/04/18/twitter.htm
+  + https://wotupset.github.io/2021/04/18/image.htm
 
 
 # ==
