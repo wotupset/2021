@@ -32,7 +32,14 @@ https://wotupset.github.io/2021/04/
 
 
 # ==
-<img src="" width="360" height="auto">
+
+
++ 18
+<img src="https://wotupset.github.io/2021/04/18/list2/20%20(2).jpg" width="360" height="auto">
+<img src="https://wotupset.github.io/2021/04/18/list2/10%20(2).jpg" width="360" height="auto">
+
+<img src="https://wotupset.github.io/2021/04/18/list2/30%20(2).jpg" width="360" height="auto">
+<img src="https://wotupset.github.io/2021/04/18/list2/40%20(3).jpg" width="360" height="auto">
 
 + 08
 <img src="https://user-images.githubusercontent.com/4385327/114013409-146ceb00-989a-11eb-889b-ac86891d5591.jpg" width="360" height="auto">
