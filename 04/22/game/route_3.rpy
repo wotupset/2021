@@ -3537,7 +3537,7 @@ yu_says "“啊,啊!你的鸡巴...真大!啊,啊!”"
 
 voice "voice/yuuko0271.ogg"
 
-yu_says "“啊...啊,我已经湿透了,感觉好舒服{color=#5ebcff}§{/color哈...”"
+yu_says "“啊...啊,我已经湿透了,感觉好舒服{color=#5ebcff}§{/color}哈...”"
 
 
 
@@ -9931,7 +9931,7 @@ yu_says "“啊,拓间,啊!我的屁股要麻了，嗯，啊~”"
 
 voice "voice/yuuko0675.ogg"
 
-yu_says "“啊,请好好射出来吧~射在里面,啊color=#5ebcff}§{/color}”"
+yu_says "“啊,请好好射出来吧~射在里面,啊{color=#5ebcff}§{/color}”"
 
 
 
