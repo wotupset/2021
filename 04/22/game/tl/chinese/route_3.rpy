@@ -1046,9 +1046,9 @@ translate chinese R3H1_280ae448:
 translate chinese R3H1_698dd03d:
 
     # voice "voice/yuuko0103.ogg"
-    # yu_says "“啊,你射了这么多~但我还是想要你的精液,拓间color=#5ebcff}§{/color}射出来更多吧{color=#5ebcff}§{/color}”"
+    # yu_says "“啊,你射了这么多~但我还是想要你的精液,拓间{color=#5ebcff}§{/color}射出来更多吧{color=#5ebcff}§{/color}”"
     voice "voice/yuuko0103.ogg"
-    yu_says "“啊,你射了这么多~但我还是想要你的精液,拓间color=#5ebcff}§{/color}射出来更多吧{color=#5ebcff}§{/color}”"
+    yu_says "“啊,你射了这么多~但我还是想要你的精液,拓间{color=#5ebcff}§{/color}射出来更多吧{color=#5ebcff}§{/color}”"
 
 # game/route_3.rpy:864
 translate chinese R3H1_4987944c:
@@ -4394,9 +4394,9 @@ translate chinese R3H3_ddbb8f8d:
 translate chinese R3H3_c3abfa73:
 
     # voice "voice/yuuko0271.ogg"
-    # yu_says "“啊...哈,我已经湿透了,感觉好舒服{color=#5ebcff}§{/color哈...”"
+    # yu_says "“啊...啊,我已经湿透了,感觉好舒服{color=#5ebcff}§{/color}哈...”"
     voice "voice/yuuko0271.ogg"
-    yu_says "“啊...哈,我已经湿透了,感觉好舒服{color=#5ebcff}§{/color哈...”"
+    yu_says "“啊...啊,我已经湿透了,感觉好舒服{color=#5ebcff}§{/color}哈...”"
 
 # game/route_3.rpy:3544
 translate chinese R3H3_3cfdc8db:
@@ -12498,9 +12498,9 @@ translate chinese R3H9_b2ff35dc:
 translate chinese R3H9_d0127792:
 
     # voice "voice/yuuko0675.ogg"
-    # yu_says "“啊,请好好射出来吧~射在里面,啊color=#5ebcff}§{/color}”"
+    # yu_says "“啊,请好好射出来吧~射在里面,啊{color=#5ebcff}§{/color}”"
     voice "voice/yuuko0675.ogg"
-    yu_says "“啊,请好好射出来吧~射在里面,啊color=#5ebcff}§{/color}”"
+    yu_says "“啊,请好好射出来吧~射在里面,啊{color=#5ebcff}§{/color}”"
 
 # game/route_3.rpy:9938
 translate chinese R3H9_d1b85a27:
