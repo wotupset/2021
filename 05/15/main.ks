@@ -547,7 +547,7 @@
 [call storage="sakurako.ks" target="*sakurako_work"]
 [fadeoutse time="500"]
 ;所持金上昇
-[eval exp="f.money = f.money + 4000"]
+[eval exp="f.money = f.money + 500000"]
 [if exp="f.oneweek ==5 || f.oneweek==6"]
 [eval exp="f.money = f.money + 1500"]
 [endif]
