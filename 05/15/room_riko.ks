@@ -56,8 +56,8 @@ tf.rand = Math.floor( Math.random() * 6)
 #
 さて、どうしようかな[p]
 [glink  color="pink" size="20"  x="800"  width="300"  y="200"  text="莉子ちゃんとエッチ"  target="*riko_room_h"]
-[if exp="f.riko_h >= 50 && f.uniform_h == undefined"]
 [glink  color="pink" size="20"  x="800"  width="300"  y="300"  text="莉子ちゃん制服着てエッチ"  target="*uniform_h"]
+[if exp="f.riko_h >= 50 && f.uniform_h == undefined"]
 [endif]
 [s]
 
