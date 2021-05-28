@@ -1,0 +1,12 @@
+-.txt
+22 (1).gif
+22 (1).jpg
+22 (1).png
+22 (2).gif
+22 (2).jpg
+22 (3).jpg
+22 (4).jpg
+22 (5).jpg
+22 (6).jpg
+22 (7).jpg
+list.bat
