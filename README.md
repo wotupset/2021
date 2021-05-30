@@ -1,4 +1,7 @@
 # 2021
+
+[![Join the chat at https://gitter.im/wotupset/2021p](https://badges.gitter.im/wotupset/2021p.svg)](https://gitter.im/wotupset/2021p?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 https://wotupset.github.io/2021/
 
 # 君は女王だ　君ならできる
