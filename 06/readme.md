@@ -7,7 +7,10 @@ https://wotupset.github.io/2021/06/
   + https://wotupset.github.io/2021/06/01/video.htm
   + https://wotupset.github.io/2021/06/01/twitter.htm
   + https://wotupset.github.io/2021/06/01/image.htm
-
++ 03
+  + https://wotupset.github.io/2021/06/03/video.htm
+  + https://wotupset.github.io/2021/06/03/twitter.htm
+  + https://wotupset.github.io/2021/06/03/image.htm
 
 
 
@@ -15,6 +18,8 @@ https://wotupset.github.io/2021/06/
 
 
 # ==
+# 03
+
 # 01
 <img src="https://user-images.githubusercontent.com/4385327/120311765-754cf880-c30a-11eb-8220-cda7d3fd971c.png" width="360" height="auto">
 <img src="https://user-images.githubusercontent.com/4385327/120311770-767e2580-c30a-11eb-8e8f-2f6dba2e6259.png" width="360" height="auto">
