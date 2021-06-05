@@ -48,12 +48,12 @@ You’re gonna make it! :two_hearts::two_hearts:
 ```jp
 飛べ、飛べ
 飛ぶ鳥のように
-ボクの代わりに世界を見て…
+ボクの代わりに世界を見て
 ボクの代わりに高い空へ
 ```
 
 ```en
-Fly，fly
+ly fly
 like a bird in the sky
 see the world on my behalf
 to the heaven may you fly
