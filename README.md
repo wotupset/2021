@@ -38,6 +38,12 @@ You’re gonna make it! :two_hearts::two_hearts:
 ## 萬古之風的棄兒
 ## 太古時光的遺孤
 ## 若你困於無風之地
+```
+飛翔吧 飛翔吧
+就像飛鳥那樣
+代我看看這個世界
+代我飛到高天之上
+```
 <img src="https://files.gitter.im/588068efd73408ce4f448ac2/y4yj/Hu210106-15-0005.jpg" width="360" height="auto">
 
 ### 無諍三昧
