@@ -35,7 +35,7 @@ https://wotupset.github.io/2021/06/
   + https://wotupset.github.io/2021/06/15/video.htm
   + https://wotupset.github.io/2021/06/15/twitter.htm
   + https://wotupset.github.io/2021/06/15/image.htm
-
+  + https://wotupset.github.io/2021/06/15/list210615/video.htm 鋼鍊
 
 
 <img src="" width="360" height="auto">
