@@ -48,12 +48,16 @@ https://wotupset.github.io/2021/06/
   + https://wotupset.github.io/2021/06/21/video.htm
   + https://wotupset.github.io/2021/06/21/twitter.htm
   + https://wotupset.github.io/2021/06/21/image.htm
-
++ 22
+  + https://wotupset.github.io/2021/06/22/video.htm
+  + https://wotupset.github.io/2021/06/22/twitter.htm
+  + https://wotupset.github.io/2021/06/22/image.htm
 
 
 <img src="" width="360" height="auto">
 
 # ==
+# 22
 # 21
 <img src="https://wotupset.github.io/2021/06/21/list2/111%20(7).jpg" width="360" height="auto">
 <img src="https://wotupset.github.io/2021/06/21/list2/111%20(8).jpg" width="360" height="auto">
