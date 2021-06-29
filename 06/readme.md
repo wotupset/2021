@@ -64,7 +64,10 @@ https://wotupset.github.io/2021/06/
   + https://wotupset.github.io/2021/06/28/video.htm
   + https://wotupset.github.io/2021/06/28/twitter.htm
   + https://wotupset.github.io/2021/06/28/image.htm
-
++ 29
+  + https://wotupset.github.io/2021/06/29/video.htm
+  + https://wotupset.github.io/2021/06/29/twitter.htm
+  + https://wotupset.github.io/2021/06/29/image.htm
 
 <img src="" width="360" height="auto">
 
