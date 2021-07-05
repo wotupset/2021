@@ -26,8 +26,11 @@ https://wotupset.github.io/2021/07/
 # 05
 <img src="https://cdn.discordapp.com/attachments/190395038386225152/861461695708790794/E5eWok2UYAAGpjM.jpg" width="360" height="auto">
 <img src="https://cdn.discordapp.com/attachments/190395038386225152/861461654440509460/E5eWoP2VgAEk9Dw.jpg" width="360" height="auto">
-<img src="" width="360" height="auto">
-<img src="" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/124419988-31c62e00-dd91-11eb-9ee0-bbe39ade4011.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/124420082-60440900-dd91-11eb-9207-630372247ae2.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/124419991-325ec480-dd91-11eb-9072-0f3ae53fffb4.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/124419993-32f75b00-dd91-11eb-91f8-275a6c289cc3.jpg" width="360" height="auto">
+
 
 # 01
 <img src="https://files.gitter.im/588068efd73408ce4f448ac2/rSKx/He210701-1091-0005.jpg" width="360" height="auto">
