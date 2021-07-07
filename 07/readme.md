@@ -16,7 +16,11 @@ https://wotupset.github.io/2021/07/
   + https://wotupset.github.io/2021/07/05/twitter.htm
   + https://wotupset.github.io/2021/07/05/image.htm
   + https://wotupset.github.io/2021/07/05/poi.htm 貓咪大戰爭六周年廣告
-
++ 07
+  + https://wotupset.github.io/2021/07/07/video.htm
+  + https://wotupset.github.io/2021/07/07/twitter.htm
+  + https://wotupset.github.io/2021/07/07/image.htm
+  + https://wotupset.github.io/2021/07/07/list999/ asmr
 
 
 
