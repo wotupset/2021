@@ -32,6 +32,13 @@ https://wotupset.github.io/2021/07/
 
 # ==
 # 08
+<img src="https://user-images.githubusercontent.com/4385327/124945037-657aaf80-e040-11eb-9351-d56ba89923e7.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/124945043-66abdc80-e040-11eb-9429-39909daa1da5.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/124945048-67447300-e040-11eb-8639-5ba9cf3a3fce.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/124945054-67447300-e040-11eb-84be-36a3e887d568.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/124945056-67dd0980-e040-11eb-9a10-2036fd2bc943.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/124945132-76c3bc00-e040-11eb-952e-59313dd6f2ae.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/124945144-77f4e900-e040-11eb-81fa-338f6c77ec70.jpg" width="360" height="auto">
 
 # 05
 <img src="https://cdn.discordapp.com/attachments/190395038386225152/861461695708790794/E5eWok2UYAAGpjM.jpg" width="360" height="auto">
