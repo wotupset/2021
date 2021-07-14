@@ -33,6 +33,11 @@ https://wotupset.github.io/2021/07/
   + https://wotupset.github.io/2021/07/13/video.htm
   + https://wotupset.github.io/2021/07/13/twitter.htm
   + https://wotupset.github.io/2021/07/13/image.htm
++ 14
+  + https://wotupset.github.io/2021/07/14/video.htm
+  + https://wotupset.github.io/2021/07/14/twitter.htm
+  + https://wotupset.github.io/2021/07/14/image.htm
+
 
 
 
