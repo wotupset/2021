@@ -49,6 +49,18 @@ https://wotupset.github.io/2021/07/
 <img src="" width="360" height="auto">
 
 # ==
+# 17.2
+<img src="https://user-images.githubusercontent.com/4385327/126021845-5e305d9b-da9f-4f96-93e1-f45fa29c5bb3.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/126021860-1b52cf1a-93ec-4af3-9afa-c08e32d55a6d.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/126021857-089d55f0-d3de-4d72-85be-fda213861b42.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/126021883-1a0e66ed-379b-4ed0-9dab-e3fc65741a3a.jpg" width="360" height="auto">
+
+# 17.1
+<img src="https://user-images.githubusercontent.com/4385327/126021782-a081f0b9-954e-4b31-a452-d199559115af.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/126021787-2c112f29-2bd0-4d32-a4cc-e40899ef5780.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/126021838-d02dd0c7-9723-4e8f-abe7-9d893ebbfb05.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/126021840-5ad0015a-67cb-4e41-951f-5081ce19917e.jpg" width="360" height="auto">
+
 # 17
 <img src="https://user-images.githubusercontent.com/4385327/126021676-29010f75-0288-4285-8ab3-256d45f4d30c.jpg" width="360" height="auto">
 <img src="https://user-images.githubusercontent.com/4385327/126021679-0a2fc617-7ef2-47ec-8153-336158a56834.jpg" width="360" height="auto">
