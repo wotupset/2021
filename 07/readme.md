@@ -50,6 +50,10 @@ https://wotupset.github.io/2021/07/
 
 # ==
 # 17
+<img src="https://user-images.githubusercontent.com/4385327/126021676-29010f75-0288-4285-8ab3-256d45f4d30c.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/126021679-0a2fc617-7ef2-47ec-8153-336158a56834.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/126021682-7448c994-6491-4a5e-b6b5-598e386aefb8.jpg" width="360" height="auto">
+<img src="https://user-images.githubusercontent.com/4385327/126021689-28e335a9-2b3d-4385-b0aa-251462b91a50.jpg" width="360" height="auto">
 
 # 14.1
 <img src="https://user-images.githubusercontent.com/4385327/125595726-d7e651a3-4322-45a5-9715-73051afe06a3.jpg" width="360" height="auto">
