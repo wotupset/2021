@@ -49,14 +49,16 @@ https://wotupset.github.io/2021/07/
 <img src="" width="360" height="auto">
 
 # ==
-# 18.1
+# 17
+
+# 14.1
 <img src="https://user-images.githubusercontent.com/4385327/125595726-d7e651a3-4322-45a5-9715-73051afe06a3.jpg" width="360" height="auto">
 <img src="https://user-images.githubusercontent.com/4385327/125595780-44397b1f-44fe-469a-8462-e23531fee75f.jpg" width="360" height="auto">
 <img src="https://user-images.githubusercontent.com/4385327/125595766-4037149b-7b28-4e38-bee3-7007d2f7c59c.jpg" width="360" height="auto">
 <img src="https://user-images.githubusercontent.com/4385327/125595819-4534e717-c909-46ed-913e-d204151b826d.jpg" width="360" height="auto">
 
 
-# 18
+# 14
 <img src="https://user-images.githubusercontent.com/4385327/125595668-13e5a89a-8731-463c-acef-040ecffc149d.jpg" width="360" height="auto">
 <img src="https://user-images.githubusercontent.com/4385327/125595658-0407e6d2-73f6-4e64-a2a4-608ba61af536.jpg" width="360" height="auto">
 <img src="https://user-images.githubusercontent.com/4385327/125595596-7a171ed1-6664-4f3b-bb59-26382f738813.jpg" width="360" height="auto">
